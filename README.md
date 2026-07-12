@@ -6,20 +6,20 @@ This project is an interactive Financial Sales & Profit Analysis Dashboard built
 The project demonstrates end-to-end Business Intelligence development, including data transformation, data modeling, DAX calculations, interactive filtering, and dashboard design.
 
 🎯 Objectives
-Analyze overall sales and profit performance.
-Monitor key business KPIs.
-Identify top-performing products, categories, and regions.
-Track monthly sales and profit trends.
-Identify loss-making products for business improvement.
-Enable interactive analysis using slicers and filters.
+- Analyze overall sales and profit performance.
+- Monitor key business KPIs.
+- Identify top-performing products, categories, and regions.
+- Track monthly sales and profit trends.
+- Identify loss-making products for business improvement.
+- Enable interactive analysis using slicers and filters.
 📊 Dashboard Pages
 1️⃣ Executive Dashboard
 
 Provides a high-level overview of business performance through executive KPIs and visual summaries.
 
-KPIs
-Total Revenue
-Total Profit
+- KPIs
+- Total Revenue
+- Total Profit
 Total Orders
 Profit Margin
 Total Customers
