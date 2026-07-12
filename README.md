@@ -15,6 +15,7 @@ The project demonstrates end-to-end Business Intelligence development, including
   
 ## 📊 Dashboard Pages
 
+
 ## 1️⃣ Executive Dashboard
 
 Provides a high-level overview of business performance through executive KPIs and visual summaries.
@@ -64,7 +65,7 @@ Analyzes profitability across products, categories, and regions.
 - Consumer segment generated the largest share of sales.
 - Several products consistently generated losses, highlighting opportunities for pricing and inventory optimization.
 - Monthly sales and profit trends revealed seasonal business patterns.
-- 
+  
 ## 🛠 Tools & Technologies
 - Power BI Desktop
 - Power Query
