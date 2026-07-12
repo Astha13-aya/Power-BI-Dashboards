@@ -121,7 +121,7 @@ This dashboard helps business users:
 
 ## Super Store Data Set
 
-- <a href=""> Supply Chain Dataset</a>
+- <a href="https://github.com/Astha13-aya/Power-BI-Dashboards/blob/main/Sample%20-%20Superstore.xlsx"> Supply Chain Dataset</a>
 
 ## 👩‍💻 Developed By
 
