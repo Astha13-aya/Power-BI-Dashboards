@@ -119,6 +119,10 @@ This dashboard helps business users:
 
 ✔ Data Storytelling
 
+## Super Store Data Set
+
+- <a href=""> Supply Chain Dataset</a>
+
 ## 👩‍💻 Developed By
 
 Astha Gusain
