@@ -119,10 +119,6 @@ This dashboard helps business users:
 
 ✔ Data Storytelling
 
-## 📂 Dataset
-
-<a herf="https://github.com/Astha13-aya/Power-BI-Dashboards/blob/main/Sample%20-%20Superstore.xlsx"> Data Set</a>
-
 ## 👩‍💻 Developed By
 
 Astha Gusain
