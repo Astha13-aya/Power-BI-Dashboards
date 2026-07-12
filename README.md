@@ -1,71 +1,72 @@
 📊 Financial Sales & Profit Analysis Dashboard | Power BI
-Project Overview
+📖 Project Overview
 
-This project is an interactive Financial Sales & Profit Dashboard developed in Power BI to analyze sales performance, profitability, customer behavior, and regional business trends. The dashboard transforms raw sales data into meaningful insights using interactive visualizations, KPIs, DAX measures, and slicers to support business decision-making.
+This project is an interactive Financial Sales & Profit Analysis Dashboard built using Power BI. The dashboard transforms raw sales data into meaningful business insights, enabling stakeholders to monitor revenue, profit, customer behavior, regional performance, and product profitability through interactive visualizations and KPI reporting.
 
-🚀 Dashboard Pages
-📌 Executive Dashboard
+The project demonstrates end-to-end Business Intelligence development, including data transformation, data modeling, DAX calculations, interactive filtering, and dashboard design.
 
-Provides a high-level overview of business performance.
+🎯 Objectives
+Analyze overall sales and profit performance.
+Monitor key business KPIs.
+Identify top-performing products, categories, and regions.
+Track monthly sales and profit trends.
+Identify loss-making products for business improvement.
+Enable interactive analysis using slicers and filters.
+📊 Dashboard Pages
+1️⃣ Executive Dashboard
 
-Key KPIs
-💰 Total Revenue
-💵 Total Profit
-🛒 Total Orders
-📈 Profit Margin
-👥 Total Customers
+Provides a high-level overview of business performance through executive KPIs and visual summaries.
+
+KPIs
+Total Revenue
+Total Profit
+Total Orders
+Profit Margin
+Total Customers
 Visualizations
 Monthly Sales Trend
 Sales by Category
 Top 5 States by Sales
-Sales by Region (Donut Chart)
-📌 Sales Analysis Dashboard
+Sales by Region
+2️⃣ Sales Analysis Dashboard
 
-Provides detailed sales insights across different business dimensions.
+Provides detailed insights into sales performance across different business dimensions.
 
 Visualizations
 Sales Trend by Month & Year
 Sales by Customer Segment
-Sales by Sub-Category & Category
+Sales by Sub-Category
 Top 10 States by Revenue
-📌 Profit Analysis Dashboard
+3️⃣ Profit Analysis Dashboard
 
-Analyzes business profitability and identifies loss-making products.
+Analyzes profitability across products, categories, and regions.
 
 KPIs
 Total Profit
 Profit Margin
 Profit per Order
-Loss Making Orders
+Loss-Making Orders
 Visualizations
 Monthly Profit Trend
 Profit by Region
-Top 10 Loss Making Products
+Top 10 Loss-Making Products
 Profit Margin by Category
-📊 KPIs Included
-Total Revenue
-Total Profit
-Total Orders
-Total Customers
-Profit Margin
-Profit Per Order
-Loss Making Orders
-📌 Features
-Interactive Navigation Buttons
-Dynamic Slicers
-Drill-down Analysis
-KPI Cards
-DAX Measures
-Cross Filtering
-Responsive Dashboard Layout
-Executive Business Insights
+📈 Key Business Insights
+Technology category generated the highest revenue.
+East region contributed the highest overall profit.
+California emerged as the top-performing state by sales.
+Consumer segment generated the largest share of sales.
+Several products consistently generated losses, highlighting opportunities for pricing and inventory optimization.
+Monthly sales and profit trends revealed seasonal business patterns.
 🛠 Tools & Technologies
 Power BI Desktop
 Power Query
-DAX
+DAX (Data Analysis Expressions)
 Data Modeling
-Excel Dataset
+Microsoft Excel
 Interactive Visualizations
+KPI Cards
+Slicers & Filters
 📚 Skills Demonstrated
 Data Cleaning
 Data Transformation
@@ -73,30 +74,46 @@ Data Modeling
 DAX Calculations
 KPI Development
 Dashboard Design
-Business Intelligence
 Sales Analytics
-Profitability Analysis
-Financial Reporting
+Financial Analysis
+Business Intelligence
+Data Visualization
 Data Storytelling
-📈 Business Insights
-Technology category generated the highest sales revenue.
-East and West regions contributed the highest profit.
-Identified top-performing states driving revenue.
-Highlighted products generating losses for better pricing decisions.
-Compared profitability across product categories to support strategic planning.
-🎯 Business Value
+🚀 Business Impact
 
-This dashboard enables business users to:
+This dashboard helps business users:
 
-Monitor sales and profit performance.
+Monitor overall business performance in real time.
+Analyze sales and profit across multiple dimensions.
 Identify profitable and loss-making products.
-Compare regional performance.
-Track monthly sales trends.
-Make data-driven business decisions through interactive reporting.
-⭐ Project Highlights
-✔ Multi-page Interactive Dashboard
-✔ Professional UI Design
-✔ Dynamic Filters & Navigation
-✔ DAX-Based KPI Calculations
-✔ Executive-Level Business Reporting
-✔ End-to-End Power BI Project
+Evaluate regional and category performance.
+Support data-driven decision-making using interactive reports.
+⭐ Project Features
+
+✔ Executive Dashboard
+
+✔ Sales Dashboard
+
+✔ Profit Dashboard
+
+✔ Interactive Navigation
+
+✔ Dynamic Slicers
+
+✔ DAX Measures
+
+✔ Professional Dashboard Design
+
+✔ Business KPI Reporting
+
+✔ Data Storytelling
+
+📂 Dataset
+
+Sample Superstore Dataset (Excel)
+
+👩‍💻 Developed By
+
+Astha Gusain
+
+Aspiring Data Analyst | Power BI | SQL | Excel | Python
